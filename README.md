@@ -1,48 +1,104 @@
-# 💫 About Me:
-👨‍💻 I am a Full Stack Developer, with a solid understanding of Microservices architecture and DevOps practices.<br>🏆 I have strong problem-solving skills and have won multiple coding competitions.<br>📚 I love exploring new technologies, improving my DSA skills, and participating in coding contests.
+## About Me
+- 👨‍💻 I am a *Full Stack Developer, with a solid understanding of **Microservices* architecture and *DevOps* practices.
+- 🏆 I have strong *problem-solving skills* and have won multiple *coding competitions*.
+- 📚 I love exploring new *technologies, improving my **DSA skills, and participating in **coding contests*.
 
+## Tech Stack and Tools  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-subhan-b181b5302/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbhnamir456@gmail.com) 
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+      <br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+      <br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+      <br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+      <br>React.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+      <br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
+      <br>Express.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7998d3ab-d17f-4ef9-afdc-096542f6404a" />
+      <br> Microservices
+    </td>
+    <td align="center">
+      <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/91f85d96-4db4-4c9f-9bdc-501c123b57ce" />
+      <br> DevOps
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a1dfbf5-1266-4818-ab45-c77e6e6729e6" />
+      <br>Docker
+    </td>
+    <td align="center">
+      <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6a6d9318-6011-4390-beee-340d85fed16e" />
+      <br> Kubernetes
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+      <br>Next.js
+    </td>
+    <td align="center">
+      <img alt="image" src="https://github.com/user-attachments/assets/baffe0f4-6279-4002-9e5c-2c0599831bf1" width="60" height="60"/>
+      <br>Nest.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
+      <br>Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+        <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+      <br>C++
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
+      <br>C#
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" height="60"/>
+      <br>LeetCode
+    </td>
+    <td align="center">
+      <img alt="image" src="https://github.com/user-attachments/assets/df05b8ba-52cd-4c0d-8cbb-3aa0e9cfb333" width="60" height="60"/>
+      <br>Codeforces
+    </td>
+  </tr>
+</table>
+</div>
 
-# 💻 Tech Stack and Tools:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>&nbsp;
-  <img src="https://static.thenounproject.com/png/3070445-200.png" title="Microservices" alt="Microservices" width="55" height="55"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" title="DevOps" alt="DevOps" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/>&nbsp;
-  <img src="https://nestjs.com/img/logo-small.svg" title="NestJS" alt="NestJS" width="55" height="55"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="55" height="55"/>&nbsp;
-  <img src="https://sta.codeforces.com/s/77078/images/codeforces-logo-with-telegram.png" title="Codeforces" alt="Codeforces" width="55" height="55"/>
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Subhan456&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Subhan456&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Subhan456&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Subhan456&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔖 Tags
-`#Microservices` `#DevOps` `#LeetCode` `#Codeforces` `#AtCoder` `#TailwindCSS`
-
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Subhan456&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Let's Connect
+- 📧 Email: sbhnamir456@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-subhan-b181b5302/
+- 🌎 Whatsapp: +92313-4713-370
